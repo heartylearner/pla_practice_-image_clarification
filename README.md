@@ -1,6 +1,6 @@
 # pla_practice_-image_clarification  
 use PLA to clarify an obscured image  
-increase "level" in pla.c to cope with even more complicated images 
+increase "level" in pla.c to cope with even more complicated images  
 usage "gen|pla"  
 
   
